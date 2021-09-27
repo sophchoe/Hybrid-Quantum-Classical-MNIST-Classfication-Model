@@ -14,4 +14,6 @@ After 100 epochs on 600 training samples,
 
 <img width="300" alt="Screen Shot 2021-09-26 at 3 09 15 PM" src="https://user-images.githubusercontent.com/22792633/134844893-52480cc0-4581-41f4-b34c-29fa4ab9250b.png">
 
+<img width="300" alt="Screen Shot 2021-09-26 at 3 09 15 PM" src="https://user-images.githubusercontent.com/22792633/134844893-52480cc0-4581-41f4-b34c-29fa4ab9250b.png">
+
 
