@@ -13,9 +13,11 @@ The notion of cutoff dimension allows for the flexibility of approximating the t
 After 100 epochs on 600 training samples,
 
 Loss:
+
 <img width="300" alt="Screen Shot 2021-09-26 at 3 09 15 PM" src="https://user-images.githubusercontent.com/22792633/134844893-52480cc0-4581-41f4-b34c-29fa4ab9250b.png">
 
 Accuracy:
+
 <img width="300" alt="Screen Shot 2021-09-26 at 3 09 30 PM" src="https://user-images.githubusercontent.com/22792633/134844906-fb687370-e206-4b41-8241-5aa1125ab5ee.png">
 
 
