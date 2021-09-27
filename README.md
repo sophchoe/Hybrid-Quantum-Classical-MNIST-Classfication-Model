@@ -4,6 +4,8 @@ This is a Keras-Pennylane implementation of MNIST classification using classical
 
 The modification takes advantage of the measurement flexibility not present in the qubit model. A quantum state in photonic quantum computing is an infitie sum of density matrices of number basis as shown in this expression.
 
+<img width="300" alt="photonic_quantum_state" src="https://user-images.githubusercontent.com/22792633/134836345-83ddf514-51c0-4ef2-9ef0-c4e2878cc2c7.png">
+
 
 A visual representation of the architecture of the network (based on binary classication) is 
 
