@@ -1,6 +1,6 @@
 # Hybrid-Quantum-Classical-MNIST-Classfication-Model
 
-This is a Keras-Pennylane implementation of MNIST classification using classical and quantum layers, inspired by "Continuous-variable quantum neural networks" Physics Review 1 033063 (2019). The model in the paper is for binary classification, hence there is a slight modification to the proposed model. 
+This is a Keras-Pennylane implementation of MNIST classification using classical and quantum layers, inspired by "Continuous-variable quantum neural networks" Physics Review 1 033063 (2019). https://arxiv.org/pdf/1806.06871v1.pdf The model in the paper is for binary classification, hence there is a slight modification to the proposed model. 
 
 <img width="500" alt="binary_classification" src="https://user-images.githubusercontent.com/22792633/134836072-33a596d4-8b6c-4946-b25e-c594613a7bae.png">
 
